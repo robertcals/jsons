@@ -21,7 +21,7 @@
 		"imageLink" : "https://raw.githubusercontent.com/robertcals/images/master/Portfolio/gradientGenerator.png"
 	},
 	{
-		"name": "Crowdfunding Platform",
+		"name": "Crowdfunding",
 		"type": ["All","Bootstrap","JavaScript","CSS","HTML"],
 		"description": "Ertin is a crowdfunding platform.Give people the power and resources to bring their humanitarian efforts to life.",
 		"link": "http://www.ertin.org",
