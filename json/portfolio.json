@@ -9,7 +9,7 @@
 	{
 		"name": "Travel Website",
 		"type": ["All","CSS","HTML"],
-		"description": "Travel website that can be used for writing blogs and posting events",
+		"description": "Travel website where you can write your own blogs and add events and shows",
 		"link": "https://robertcals.github.io/Travelsite/",
 		"imageLink" : "https://raw.githubusercontent.com/robertcals/images/master/Portfolio/Travelsite_.png"
 	},
@@ -31,14 +31,14 @@
 	{
 		"name": "Music Website",
 		"type": ["All","CSS","HTML"],
-		"description": "RTWay is a company that offers leadership courses in Johannesburg SA.",
+		"description": "Music website which showcases the DJ's portfolio ,tour events and the the latest songs composed",
 		"link": "http://mckofficial.com/",
 		"imageLink" : "https://raw.githubusercontent.com/robertcals/images/master/Portfolio/mckofficial.com_.png"
 	},
 	{
 		"name": "Quote Generator",
 		"type": ["All","CSS","HTML"],
-		"description": "It generates quotes and can directly be posted on twitter",
+		"description": "It generates random quotes,you can read the quotes and can directly post it on twitter",
 		"link": "https://robertcals.github.io/quote-generator/",
 		"imageLink" : "https://raw.githubusercontent.com/robertcals/images/master/Portfolio/quote-generator_.png"
 	},
