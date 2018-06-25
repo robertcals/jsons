@@ -1,32 +1,4 @@
 [
-	{
-		"name":"Face-Detection",
-		"type":["All","Project","React","JavaScript","CSS","HTML"],
-		"description":"React App that detects the location of a face in an image with a login and register form.",
-		"link":"https://smart-detect.herokuapp.com/",
-		"imageLink":"https://raw.githubusercontent.com/robertcals/images/master/Portfolio/face-detect.png"
-	},
-	{
-		"name": "Travel Website",
-		"type": ["All","CSS","HTML"],
-		"description": "Travel website where you can write your own blogs and add events and shows",
-		"link": "https://robertcals.github.io/Travelsite/",
-		"imageLink" : "https://raw.githubusercontent.com/robertcals/images/master/Portfolio/Travelsite_.png"
-	},
-	{
-		"name": "Gradient Gen",
-		"type": ["All","Project","JavaScript","CSS","HTML"],
-		"description": "Website that you can select your own colors to create gradient background or create with random colors.",
-		"link": "https://robertcals.github.io/background-generator/",
-		"imageLink" : "https://raw.githubusercontent.com/robertcals/images/master/Portfolio/gradientGenerator.png"
-	},
-	{
-		"name": "Crowdfunding",
-		"type": ["All","Bootstrap","JavaScript","CSS","HTML"],
-		"description": "Ertin is a crowdfunding platform.Give people the power and resources to bring their humanitarian efforts to life.",
-		"link": "http://www.ertin.org",
-		"imageLink" : "https://raw.githubusercontent.com/robertcals/images/master/Portfolio/ertin.org.png"
-	},
 	
 	{
 		"name": "Music Website",
@@ -42,6 +14,39 @@
 		"link": "https://robertcals.github.io/quote-generator/",
 		"imageLink" : "https://raw.githubusercontent.com/robertcals/images/master/Portfolio/quote-generator_.png"
 	},
+
+
+	{
+		"name": "Travel Website",
+		"type": ["All","CSS","HTML"],
+		"description": "Travel website where you can write your own blogs and add events and shows",
+		"link": "https://robertcals.github.io/Travelsite/",
+		"imageLink" : "https://raw.githubusercontent.com/robertcals/images/master/Portfolio/Travelsite_.png"
+	},
+	
+	{
+		"name": "Crowdfunding",
+		"type": ["All","Bootstrap","JavaScript","CSS","HTML"],
+		"description": "Ertin is a crowdfunding platform.Give people the power to bring their humanitarian efforts to life.",
+		"link": "http://www.ertin.org",
+		"imageLink" : "https://raw.githubusercontent.com/robertcals/images/master/Portfolio/ertin.org.png"
+	},
+	{
+		"name":"Face-Detection",
+		"type":["All","Project","React","JavaScript","CSS","HTML"],
+		"description":"React App that detects the location of a face in an image with a login and register form.",
+		"link":"https://smart-detect.herokuapp.com/",
+		"imageLink":"https://raw.githubusercontent.com/robertcals/images/master/Portfolio/face-detect.png"
+	},
+	{
+		"name": "Gradient Gen",
+		"type": ["All","Project","JavaScript","CSS","HTML"],
+		"description": "Website that you can select your own colors to create gradient background or create with random colors.",
+		"link": "https://robertcals.github.io/background-generator/",
+		"imageLink" : "https://raw.githubusercontent.com/robertcals/images/master/Portfolio/gradientGenerator.png"
+	},
+
+
 	{
 		"name": "Robo Friends",
 		"type": ["All","Project","React"],
